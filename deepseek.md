@@ -1,7 +1,7 @@
 ---
 description: Deepseek (opencode)
 mode: primary
-model: opencode/deepseek-v4-flash-free
+model: opencode/deepseek-v4.1-flash-free
 variant: max
 permission:
   question: allow
